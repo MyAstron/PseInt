@@ -11,14 +11,14 @@ Algoritmo Actividad2_EJER1
 	num <- 4
 	
 	
-	Mientras (nMin <= nMax) Hacer /* Mientras el multiplicando este dentro de los parametros */
+	Para nMin<-1 Hasta nMax Hacer /* Para cuando el multiplicando este dentro de los parametros */
 		
 		/* Escribe: %multiplicando% x %multiplicador% = %producto%*/
 		Escribir nMin," x ",num," = ",(nMin*num)
 		
 		/* Aumentamos de 1 en 1 el multiplicando */
 		nMin <- nMin+1
-	FinMientras
+	FinPara
 	
 	/* Fin del Algoritmo */
 FinAlgoritmo
