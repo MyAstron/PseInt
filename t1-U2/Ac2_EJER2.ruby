@@ -16,9 +16,12 @@ Algoritmo Actividad2_EJER2
 	Escribir "Los Numeros pares entre ",nMin," y ",nMax," son: "
 	
 	
-	Para nMin<-2 Hasta nMax Hacer /* Para cuando el Numero aun este dentro de los Parametros */
+	Para nMin<-2 Hasta nMax Hacer 
+	/* Para cuando el Numero aun este dentro de los Parametros */
 		
-		Si (nMin % 2 == 0) Entonces /* Si el %numero% es par */
+		Si (nMin % 2 == 0) Entonces 
+		/* Si el %numero% es par */
+
 			/* Escribimos %numero% */
 			Escribir nMin
 		FinSi
