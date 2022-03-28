@@ -11,7 +11,8 @@ Algoritmo Actividad2_EJER1
 	num <- 4
 	
 	
-	Para nMin<-1 Hasta nMax Hacer /* Para cuando el multiplicando este dentro de los parametros */
+	Para nMin<-1 Hasta nMax Hacer 
+	/* Para cuando el multiplicando este dentro de los parametros */
 		
 		/* Escribe: %multiplicando% x %multiplicador% = %producto%*/
 		Escribir nMin," x ",num," = ",(nMin*num)
