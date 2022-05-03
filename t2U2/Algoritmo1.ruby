@@ -1,6 +1,3 @@
-## Suma Comprendida entre dos numeros Ingresados
-
-```ruby
 Algoritmo Algoritmo1
 	Definir nMin, nMax como Entero
 	
@@ -16,4 +13,3 @@ Algoritmo Algoritmo1
 	
 	Mostrar 'La suma total es de ',suma
 FinAlgoritmo
-```
