@@ -1,5 +1,3 @@
-## Analizar si un Numero es Primo o Compuesto
-```ruby
 Algoritmo Algoritmo7
 	Definir x, Num, divisiones Como Entero
 	x <- 1
@@ -20,4 +18,3 @@ Algoritmo Algoritmo7
 		Escribir 'El numero es Compuesto'
 	FinSi
 FinAlgoritmo
-```
