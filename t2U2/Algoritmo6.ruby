@@ -1,5 +1,3 @@
-## Mostrar los numeros Impares entre el 20 y 'Num'
-```ruby
 Algoritmo Algoritmo6
 	Definir Num Como Entero
 	
@@ -13,4 +11,3 @@ Algoritmo Algoritmo6
 		Num <- Num - 1
 	FinMientras
 FinAlgoritmo
-```
