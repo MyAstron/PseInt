@@ -14,6 +14,6 @@ Algoritmo Actividad3_Pag61
 	Escribir  "`---`---`---`"
 FinAlgoritmo
 ```
-> **Actividad**: `3`
-> **Ejercicio**: `Unico`
-> **Pagina**: 61
+> **Actividad**: [`3`]()
+> **Ejercicio**: [`Unico`]()
+> **Pagina**: [`61`]()
