@@ -1,5 +1,3 @@
-## Evaluar la Factuarizacion de 'Num'
-```ruby
 Algoritmo Algoritmo3
 	Definir Num como Entero
 	
@@ -13,4 +11,3 @@ Algoritmo Algoritmo3
 	FinMientras
 	Escribir 'El factorial es ',factorial
 FinAlgoritmo
-```
