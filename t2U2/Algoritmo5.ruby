@@ -1,5 +1,3 @@
-## Mostrar los Multiplos de 4 entre 'nMin' y 'nMax'
-```ruby
 Algoritmo Algoritmo5
 	Definir nMin, nMax como Entero
 	
@@ -15,4 +13,3 @@ Algoritmo Algoritmo5
 		nMin <- nMin + 1
 	FinMientras
 FinAlgoritmo
-```
