@@ -1,5 +1,3 @@
-## Escribir los primeros 10 multiplos de 'Num'
-```ruby
 Algoritmo Algoritmo8
 	Definir Num Como Entero
 	
@@ -12,4 +10,3 @@ Algoritmo Algoritmo8
 		x <- x + 1
 	FinMientras
 FinAlgoritmo
-```
