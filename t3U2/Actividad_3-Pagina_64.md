@@ -19,6 +19,6 @@ Algoritmo Actividad3_Pag64
 	Fin Mientras
 FinAlgoritmo
 ```
-> **Actividad**: `3`
-> **Ejercicio**: `Unico`
-> **Pagina**: `64`
+> **Actividad**: [`3`]()
+> **Ejercicio**: [`Unico`]()
+> **Pagina**: [`64`]()
