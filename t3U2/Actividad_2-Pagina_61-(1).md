@@ -12,6 +12,6 @@ Algoritmo N1_Actividad2
 	Escribir  "`---`---`"
 FinAlgoritmo
 ```
-> **Actividad**: [`1`]()
+> **Actividad**: [`2`]()
 **Ejercicio**: [`1`]()
-**Pagina**: [` 61 `]()
+**Pagina**: [`61`]()
