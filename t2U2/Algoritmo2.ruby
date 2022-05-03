@@ -1,5 +1,3 @@
-## Suma de Numeros hasta que el Usuario escriba "9"
-```ruby
 Algoritmo Algoritmo2
 	Definir Num como Entero
 	
@@ -12,4 +10,3 @@ Algoritmo Algoritmo2
 	Escribir 'La suma total es de ',suma
 	
 FinAlgoritmo
-```
