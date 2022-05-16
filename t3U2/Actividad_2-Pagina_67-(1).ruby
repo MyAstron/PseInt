@@ -1,5 +1,3 @@
----
-```ruby
 Algoritmo N1_Actividad2_Pag67
 	nMax <- 100
 	primos <- 0
@@ -24,8 +22,4 @@ Algoritmo N1_Actividad2_Pag67
 	FinPara
 	
 	Escribir "La sumatoria de los ",primos," numeros primos ente 1-",nMax," es de: ",total
-FinAlgoritmo
-```
-> **Actividad**: [`2`]()
-**Ejercicio**: [`1`]()
-**Pagina**: [`67`]()
+FinAlgoritmo]
