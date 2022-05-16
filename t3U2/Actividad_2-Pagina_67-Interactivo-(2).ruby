@@ -1,5 +1,3 @@
-## Metodo Interactivo
-```ruby
 Algoritmo Metodo_Interactivo
 	Mientras (i < 20) Hacer
 		Limpiar Pantalla
@@ -22,10 +20,3 @@ Algoritmo Metodo_Interactivo
 	Fin Mientras
 	Mostrar 'Tenemos ',b_100,' billetes de Q.100 con el valor de Q.',(b_100*100),' en total'
 FinAlgoritmo
-```
-> **Actividad**: [`2`]()
-**Ejercicio**: [`2`]()
-**Pagina**: [`67`]()
-
-
-**SEGUNDO METODO (METODO INTERACTIVO)**
