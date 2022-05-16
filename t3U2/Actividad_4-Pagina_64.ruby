@@ -1,5 +1,3 @@
----
-```ruby
 Algoritmo Actividad4_Pag64
 	Para Nx <- 1 Hasta 12 Con Paso 1 Hacer
 		Imprimir ""
@@ -9,7 +7,3 @@ Algoritmo Actividad4_Pag64
 		Fin Para
 	Fin Para
 FinAlgoritmo
-```
-> **Actividad**: [`4`]()
-> **Ejercicio**: [`Unico`]()
-> **Pagina**: [`64`]()
