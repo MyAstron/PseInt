@@ -1,5 +1,3 @@
----
-```ruby
 Algoritmo Actividad3_Pag61
 	Escribir  ",---,---,---,"
 	Escribir  "| x | y | z |"
@@ -13,7 +11,3 @@ Algoritmo Actividad3_Pag61
 	Fin Para
 	Escribir  "`---`---`---`"
 FinAlgoritmo
-```
-> **Actividad**: [`3`]()
-> **Ejercicio**: [`Unico`]()
-> **Pagina**: [`61`]()
