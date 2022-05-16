@@ -1,5 +1,3 @@
-## Primer Metodo
-```ruby
 Algoritmo N2_Actividad2_Pag67
 	Para i <- 1 Hasta 1000 Con Paso 1 Hacer
 		Esperar 1 Segundo
@@ -33,7 +31,3 @@ Algoritmo N2_Actividad2_Pag67
 	Imprimir '| Q.',(cant_b100*100),' En total!'
 	Escribir '`----------------------'
 FinAlgoritmo
-```
-> **Actividad**: [`2`]()
-**Ejercicio**: [`2`]()
-**Pagina**: [`67`]()
