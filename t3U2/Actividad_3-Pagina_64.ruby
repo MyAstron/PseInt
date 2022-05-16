@@ -1,5 +1,3 @@
----
-```ruby
 Algoritmo Actividad3_Pag64	
 	yn <- 'y'
 	Mientras yn = 'y' Hacer
@@ -18,7 +16,3 @@ Algoritmo Actividad3_Pag64
 		Imprimir ''
 	Fin Mientras
 FinAlgoritmo
-```
-> **Actividad**: [`3`]()
-> **Ejercicio**: [`Unico`]()
-> **Pagina**: [`64`]()
