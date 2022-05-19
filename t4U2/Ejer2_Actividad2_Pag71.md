@@ -1,8 +1,8 @@
 ```ruby
 Algoritmo Ejer2_Actividad2_Pag71
+	Definir num como Numero
+	Dimension num[8]
 	Para contador <- 1 Hasta 8 Con Paso 1 Hacer
-		Definir num como Numero
-		Dimension num[8]
 		Escribir 'Escribe el ',contador,' Numero 'Sin Saltar
 		Leer num[contador]
 		
